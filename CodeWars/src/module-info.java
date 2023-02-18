@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sbarb
+ *
+ */
+module CodeWars {
+}
