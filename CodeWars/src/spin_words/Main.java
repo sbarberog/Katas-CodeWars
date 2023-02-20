@@ -1,4 +1,4 @@
-package kata1;
+package spin_words;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package kata2;
+package square;
 
 public class Square {
 

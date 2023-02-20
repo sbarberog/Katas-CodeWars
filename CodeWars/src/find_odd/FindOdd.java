@@ -1,4 +1,4 @@
-package kata3;
+package find_odd;
 
 public class FindOdd {
 
