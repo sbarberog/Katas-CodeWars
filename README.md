@@ -1,2 +1,2 @@
 # Katas-CodeWars
-Colección de katas de CodeWars.com
+Colección de ejercicios de Java realizados en CodeWars.com
